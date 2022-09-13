@@ -1,3 +1,6 @@
 Hello World
 
 I'm in a new branch!
+
+What's a pirate's favorite letter?
+	You'd think it'd be R! But it be the C!
